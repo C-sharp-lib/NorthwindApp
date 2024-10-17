@@ -53,3 +53,5 @@ C:\Users\strad\source\repos\NorthwindApp\NorthwindApp\obj\Debug\net6.0-windows\N
 C:\Users\strad\source\repos\NorthwindApp\NorthwindApp\obj\Debug\net6.0-windows\NorthwindApp.genruntimeconfig.cache
 C:\Users\strad\source\repos\NorthwindApp\NorthwindApp\obj\Debug\net6.0-windows\ref\NorthwindApp.dll
 C:\Users\strad\source\repos\NorthwindApp\NorthwindApp\obj\Debug\net6.0-windows\NorthwindApp.AddForm.resources
+C:\Users\strad\source\repos\NorthwindApp\NorthwindApp\obj\Debug\net6.0-windows\NorthwindApp.sourcelink.json
+C:\Users\strad\source\repos\NorthwindApp\NorthwindApp\obj\Debug\net6.0-windows\NorthwindApp.SelectionForm.resources

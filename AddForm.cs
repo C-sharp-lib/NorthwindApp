@@ -84,7 +84,12 @@ namespace NorthwindApp
                     // Add a button to save the data
                     Button btnSave = new Button();
                     btnSave.Text = "Save";
-                    btnSave.Location = new System.Drawing.Point(150, yPosition);
+                    btnSave.Location = new System.Drawing.Point(100, yPosition);
+                    btnSave.Width = 161;
+                    btnSave.Height = 51;
+                    btnSave.BackColor = System.Drawing.Color.DodgerBlue;
+                    btnSave.ForeColor = System.Drawing.Color.White;
+                    btnSave.FlatStyle = FlatStyle.Popup;
                     btnSave.Click += BtnSave_Click;
                     this.Controls.Add(btnSave);
                 }

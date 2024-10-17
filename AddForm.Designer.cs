@@ -34,11 +34,12 @@
             // exitAdd
             // 
             exitAdd.BackColor = Color.DarkOrange;
-            exitAdd.Font = new Font("Segoe UI", 11F, FontStyle.Regular, GraphicsUnit.Point);
+            exitAdd.FlatStyle = FlatStyle.Popup;
+            exitAdd.Font = new Font("Verdana", 11.25F, FontStyle.Bold, GraphicsUnit.Point);
             exitAdd.ForeColor = Color.White;
             exitAdd.Location = new Point(633, 67);
             exitAdd.Name = "exitAdd";
-            exitAdd.Size = new Size(134, 36);
+            exitAdd.Size = new Size(134, 49);
             exitAdd.TabIndex = 0;
             exitAdd.Text = "Exit";
             exitAdd.UseVisualStyleBackColor = false;
@@ -48,7 +49,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(800, 562);
             Controls.Add(exitAdd);
             Name = "AddForm";
             Text = "AddForm";
